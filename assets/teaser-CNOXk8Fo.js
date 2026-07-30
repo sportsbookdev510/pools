@@ -61,7 +61,7 @@ var _ = r(),
     tabTitle: `Something new`,
     ogTitle: `Pools`,
     ogDescription: `Coming soon from Uniswap`,
-    comingSoon: `0x19be67659883122d300ae52cd305b6f07e554917`,
+    comingSoon: `comingsoon`,
     ogImageAlt: `The Pools droplet mark and wordmark on a dark green background.`,
   },
   y = () => [
