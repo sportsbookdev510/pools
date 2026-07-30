@@ -61,7 +61,7 @@ var _ = r(),
     tabTitle: `Something new`,
     ogTitle: `Pools`,
     ogDescription: `Coming soon from Uniswap`,
-    0x19be67659883122d300ae52cd305b6f07e554917: `Coming soon`,
+    comingSoon: `0x19be67659883122d300ae52cd305b6f07e554917`,
     ogImageAlt: `The Pools droplet mark and wordmark on a dark green background.`,
   },
   y = () => [
@@ -274,7 +274,7 @@ var O = t(function () {
                 style: {
                   filter: `drop-shadow(0 0 3px rgba(235, 251, 242, 0.5))`,
                 },
-                children: v.0x19be67659883122d300ae52cd305b6f07e554917,
+                children: v.comingSoon,
               }),
             ],
           }),
